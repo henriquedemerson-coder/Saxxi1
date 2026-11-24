@@ -6,3 +6,4 @@ dist
 .vinxi
 .output
 .vercel
+.env*
