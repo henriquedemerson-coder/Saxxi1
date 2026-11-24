@@ -1,0 +1,12 @@
+C:\Users\demerson.5635\Downloads\SaxxiProjeto\backend\src\main\java\com\saxxi\api\config\SecurityConfig.java
+C:\Users\demerson.5635\Downloads\SaxxiProjeto\backend\src\main\java\com\saxxi\api\controller\TransactionController.java
+C:\Users\demerson.5635\Downloads\SaxxiProjeto\backend\src\main\java\com\saxxi\api\dto\CaixinhaDto.java
+C:\Users\demerson.5635\Downloads\SaxxiProjeto\backend\src\main\java\com\saxxi\api\dto\FinanceStateDto.java
+C:\Users\demerson.5635\Downloads\SaxxiProjeto\backend\src\main\java\com\saxxi\api\dto\SonhoDto.java
+C:\Users\demerson.5635\Downloads\SaxxiProjeto\backend\src\main\java\com\saxxi\api\dto\SyncResponse.java
+C:\Users\demerson.5635\Downloads\SaxxiProjeto\backend\src\main\java\com\saxxi\api\dto\TransacaoDto.java
+C:\Users\demerson.5635\Downloads\SaxxiProjeto\backend\src\main\java\com\saxxi\api\dto\TransactionType.java
+C:\Users\demerson.5635\Downloads\SaxxiProjeto\backend\src\main\java\com\saxxi\api\entity\UserFinance.java
+C:\Users\demerson.5635\Downloads\SaxxiProjeto\backend\src\main\java\com\saxxi\api\repository\UserFinanceRepository.java
+C:\Users\demerson.5635\Downloads\SaxxiProjeto\backend\src\main\java\com\saxxi\api\SaxxiApiApplication.java
+C:\Users\demerson.5635\Downloads\SaxxiProjeto\backend\src\main\java\com\saxxi\api\service\FinanceStateService.java

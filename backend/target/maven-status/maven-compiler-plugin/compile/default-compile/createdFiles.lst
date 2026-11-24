@@ -1,0 +1,13 @@
+com\saxxi\api\dto\CaixinhaDto.class
+com\saxxi\api\dto\TransactionType.class
+com\saxxi\api\repository\UserFinanceRepository.class
+com\saxxi\api\dto\SonhoDto.class
+com\saxxi\api\controller\TransactionController.class
+com\saxxi\api\dto\TransacaoDto.class
+com\saxxi\api\service\FinanceStateService.class
+com\saxxi\api\config\SecurityConfig.class
+com\saxxi\api\SaxxiApiApplication.class
+com\saxxi\api\dto\SyncResponse.class
+com\saxxi\api\entity\UserFinance.class
+com\saxxi\api\dto\FinanceStateDto.class
+com\saxxi\api\service\FinanceStateService$AddTransactionResult.class
